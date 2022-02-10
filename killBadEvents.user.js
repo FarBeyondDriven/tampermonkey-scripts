@@ -9,6 +9,8 @@
 // @match https://*
 // @run-at document-start
 // @grant none
+// @updateURL https://github.com/FarBeyondDriven/tampermonkey-scripts/raw/main/killBadEvents.user.js
+// @downloadURL https://github.com/FarBeyondDriven/tampermonkey-scripts/raw/main/killBadEvents.user.js
 // ==/UserScript==
 
 // add more events to block here
