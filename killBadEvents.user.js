@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name KillBadEvents
 // @description Kill unwanted javascript events that hijack/block browser events
-// @version 63
+// @version 66
 // @author FBD
 // @include http://*
 // @include https://*
