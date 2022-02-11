@@ -2,10 +2,12 @@
 // @name         Twitch Looter
 // @description  Twitch Looter
 // @namespace    
-// @version      92
+// @version      95
 // @author       FBD
 // @match        https://www.twitch.tv/*
 // @grant        none
+// @updateURL    https://github.com/FarBeyondDriven/tampermonkey-scripts/raw/main/TwitchLooter.user.js
+// @downloadURL  https://github.com/FarBeyondDriven/tampermonkey-scripts/raw/main/TwitchLooter.user.js
 // ==/UserScript==
 
 (function() {
