@@ -11,4 +11,4 @@ Collection of useful Tampermonkey Scripts
 - Automatically confirming mature streams
 - `https://github.com/FarBeyondDriven/tampermonkey-scripts/raw/main/TwitchLooter.user.js`
 
-*Note: On streams with lots of viewers (5k) twitch sometimes fails to deliver the drop notification, can't click a notification that never shows up...*
+*Note: On streams with lots of viewers (5k+) twitch sometimes fails to deliver the drop notification, can't click a notification that never shows up...*
